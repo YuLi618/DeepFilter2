@@ -1,0 +1,957 @@
+Name,Lat,Lon,Category
+John Brotchie Nursery School,-33.942627,151.196138,School
+Secondary College of Languages,-33.8137843,151.0086802,School
+Chifley College Senior Campus,-33.769305,150.829855,School
+St Marys Senior High School,-33.763119,150.770024,School
+Sydney Secondary College Blackwattle Bay Campus,-33.875142,151.188357,School
+Australia Street Infants School,-33.895783,151.177607,School
+Russell Lea Public School,-33.861418,151.142572,School
+Taverners Hill Infants School,-33.888955,151.157199,School
+Northern Beaches Secondary College Freshwater Senior Campus,-33.76751,151.279975,School
+Yeo Park Infants School,-33.902692,151.130055,School
+Fowler Road School,-33.841497,150.975533,School
+Sefton Infants School,-33.889237,151.009588,School
+Mount Lewis Infants School,-33.916084,151.04976,School
+Bankstown South Infants School,-33.93123,151.038402,School
+Arncliffe West Infants School,-33.931832,151.14516,School
+Bardwell Park Infants School,-33.933428,151.12555,School
+Hurstville Grove Infants School,-33.973128,151.090536,School
+Field of Mars Environmental Education Centre,-33.816092,151.132849,School
+Bradfield College,-33.820468,151.188457,School
+Bankstown Senior College,-33.929121,151.022569,School
+Wyndham College,-33.72608922,150.8795746,School
+Arndell School,-33.803223,151.125535,School
+Bridge Road School,-33.887445,151.175254,School
+Dorchester School,-34.088474,150.826331,School
+Kyeemagh Public School,-33.94902,151.162305,School
+Putland School,-33.764297,150.750385,School
+"Georges River College, Oatley Senior Campus",-33.977001,151.081391,School
+Centennial Park School,-33.910564,151.243184,School
+Verona School,-33.868235,150.9709,School
+Palm Avenue School,-33.80257496,150.9851858,School
+Royal Far West School,-33.798519,151.288476,School
+Stewart House School,-33.77349,151.29131,School
+Kamay Botany Bay Environmental Education Centre,-34.003706,151.221169,School
+Brewongle Environmental Education Centre,-33.48167,150.891511,School
+Camden Park Environmental Education Centre,-34.120004,150.709685,School
+Georges River Environmental Education Centre,-33.910278,150.961511,School
+Gibberagong Environmental Education Centre,-33.65937821,151.1586004,School
+Longneck Lagoon Environmental Education Centre,-33.576219,150.892806,School
+Observatory Hill Environmental Education Centre,-33.860863,151.204832,School
+Penrith Lakes Environmental Education Centre,-33.728553,150.686511,School
+Royal National Park Environmental Education Centre,-34.06282,151.057682,School
+Wooglemai Environmental Education Centre,-34.134567,150.499162,School
+NSW School of Languages,-33.894807,151.150285,School
+St George Hospital School,-33.96671,151.13399,School
+Royal Prince Alfred Hospital School,-33.889314,151.180245,School
+Royal North Shore Hospital School,-33.820685,151.19079,School
+Sydney Childrens Hospital School,-33.919053,151.239067,School
+Sutherland Hospital School,-34.038034,151.114597,School
+Bankstown Hospital School,-33.933446,151.021069,School
+The Childrens Hospital School,-33.802243,150.991834,School
+Liverpool Hospital School,-33.919912,150.931084,School
+Abbotsford Public School,-33.852728,151.131206,School
+Annandale Public School,-33.885782,151.169599,School
+Annandale North Public School,-33.877905,151.171835,School
+Ashbury Public School,-33.898833,151.11944,School
+Ashfield Public School,-33.889723,151.12821,School
+Banksmeadow Public School,-33.953739,151.20661,School
+Bellevue Hill Public School,-33.886986,151.259785,School
+Beverly Hills Public School,-33.953449,151.085209,School
+Birchgrove Public School,-33.853009,151.177045,School
+Blakehurst Public School,-33.98298,151.115779,School
+Bondi Beach Public School,-33.8883,151.276821,School
+Botany Public School,-33.94316,151.194687,School
+Brighton-Le-Sands Public School,-33.962357,151.148929,School
+Bronte Public School,-33.900605,151.262011,School
+Camdenville Public School,-33.906146,151.175741,School
+Canterbury Public School,-33.908761,151.122306,School
+Caringbah Public School,-34.053433,151.122988,School
+Carlton Public School,-33.963496,151.12246,School
+Carlton South Public School,-33.973045,151.128287,School
+Clemton Park Public School,-33.929708,151.108423,School
+Clovelly Public School,-33.907431,151.26028,School
+Como Public School,-34.001832,151.069127,School
+Connells Point Public School,-33.984689,151.100306,School
+Coogee Public School,-33.920819,151.249846,School
+Cronulla Public School,-34.054077,151.14773,School
+Darlington Public School,-33.892638,151.18939,School
+Double Bay Public School,-33.874856,151.240894,School
+Drummoyne Public School,-33.856073,151.153035,School
+Earlwood Public School,-33.928982,151.12238,School
+Engadine Public School,-34.06335,151.012431,School
+Five Dock Public School,-33.866859,151.127318,School
+Forest Lodge Public School,-33.882169,151.181597,School
+Fort Street Public School,-33.860427,151.204871,School
+Glenmore Road Public School,-33.881385,151.230233,School
+Gymea Bay Public School,-34.046905,151.082825,School
+Haberfield Public School,-33.879467,151.134002,School
+Heathcote Public School,-34.086704,151.007321,School
+Hurstville Public School,-33.964695,151.110728,School
+Hurstville South Public School,-33.972516,151.099252,School
+Kegworth Public School,-33.886514,151.14693,School
+Kensington Public School,-33.909604,151.224965,School
+Kingsgrove Public School,-33.947822,151.10156,School
+Bexley North Public School,-33.940838,151.120374,School
+Kogarah Public School,-33.962028,151.136618,School
+Kurnell Public School,-34.010156,151.203773,School
+La Perouse Public School,-33.978352,151.235423,School
+Malabar Public School,-33.962214,151.248559,School
+Maroubra Bay Public School,-33.944236,151.253017,School
+Mascot Public School,-33.928577,151.192485,School
+Matraville Public School,-33.955064,151.229111,School
+Menai Public School,-34.01213,151.006587,School
+Miranda Public School,-34.034645,151.097405,School
+Mortdale Public School,-33.972901,151.080995,School
+Newtown North Public School,-33.891821,151.185392,School
+Nicholson Street Public School,-33.855744,151.193188,School
+Oatley Public School,-33.983741,151.080332,School
+Orange Grove Public School,-33.872278,151.158678,School
+Peakhurst Public School,-33.955402,151.062306,School
+Penshurst Public School,-33.962636,151.087702,School
+Rainbow Street Public School,-33.924647,151.237164,School
+Rockdale Public School,-33.952626,151.141681,School
+Rose Bay Public School,-33.873011,151.270962,School
+St Peters Public School,-33.912993,151.176696,School
+Sans Souci Public School,-33.99499,151.12923,School
+Summer Hill Public School,-33.895815,151.135853,School
+Sutherland Public School,-34.033001,151.059149,School
+Sylvania Public School,-34.008118,151.112077,School
+Taren Point Public School,-34.01808,151.12269,School
+Ultimo Public School,-33.877674,151.195607,School
+Undercliffe Public School,-33.924086,151.138601,School
+Vaucluse Public School,-33.850478,151.281166,School
+Waterfall Public School,-34.137598,150.995977,School
+Athelstane Public School,-33.937445,151.138362,School
+Oyster Bay Public School,-34.00779,151.080693,School
+Cronulla South Public School,-34.06611,151.154201,School
+South Coogee Public School,-33.933333,151.25409,School
+Woronora River Public School,-34.026575,151.041114,School
+Bundeena Public School,-34.086792,151.152422,School
+Bald Face Public School,-33.996752,151.106905,School
+Lugarno Public School,-33.984956,151.044676,School
+Oatley West Public School,-33.979006,151.065459,School
+Sutherland North Public School,-34.026785,151.067084,School
+Jannali Public School,-34.017945,151.060909,School
+Ramsgate Public School,-33.981431,151.143549,School
+Dobroyd Point Public School,-33.874416,151.140692,School
+McCallums Hill Public School,-33.934891,151.084758,School
+Como West Public School,-34.004744,151.060505,School
+Pagewood Public School,-33.942104,151.214172,School
+Grays Point Public School,-34.058656,151.0723,School
+Crown Street Public School,-33.882253,151.21522,School
+Tempe Public School,-33.920935,151.160994,School
+Marrickville West Public School,-33.914468,151.145073,School
+Marrickville Public School,-33.906705,151.162658,School
+Waverley Public School,-33.898174,151.251539,School
+Woolooware Public School,-34.045454,151.146233,School
+Caringbah North Public School,-34.036574,151.123079,School
+Jannali East Public School,-34.019152,151.07232,School
+Peakhurst West Public School,-33.962021,151.049429,School
+Sylvania Heights Public School,-34.012724,151.097344,School
+Penshurst West Public School,-33.962115,151.072176,School
+Matraville Soldiers Settlement Public School,-33.958039,151.239995,School
+Kirrawee Public School,-34.033467,151.07749,School
+Illawong Public School,-33.999133,151.042689,School
+Lilli Pilli Public School,-34.066592,151.118387,School
+Miranda North Public School,-34.031992,151.11273,School
+Yowie Bay Public School,-34.048155,151.102761,School
+Erskineville Public School,-33.900881,151.186112,School
+Loftus Public School,-34.046979,151.048886,School
+Laguna Street Public School,-34.04634,151.11285,School
+Randwick Public School,-33.910645,151.241714,School
+Burraneer Bay Public School,-34.051026,151.132781,School
+Engadine West Public School,-34.059519,151.002566,School
+Yarrawarrah Public School,-34.056574,151.026137,School
+Chifley Public School,-33.96583,151.242158,School
+Peakhurst South Public School,-33.972923,151.055986,School
+Lewisham Public School,-33.897746,151.146076,School
+Gymea North Public School,-34.026457,151.088321,School
+Marton Public School,-34.046492,151.024232,School
+Kareela Public School,-34.012894,151.081991,School
+Dulwich Hill Public School,-33.906163,151.140287,School
+Petersham Public School,-33.895647,151.150175,School
+Bonnet Bay Public School,-34.012607,151.056257,School
+Eastlakes Public School,-33.928065,151.213836,School
+Bangor Public School,-34.019534,151.029118,School
+Wilkins Public School,-33.901967,151.155086,School
+Plunkett Street Public School,-33.870879,151.22024,School
+Tharawal Public School,-34.003289,151.025929,School
+Sydney Distance Education Primary School,-33.88627,151.212706,School
+Alfords Point Public School,-33.992403,151.02399,School
+Canterbury South Public School,-33.917776,151.116013,School
+Ferncourt Public School,-33.921393,151.151497,School
+Heathcote East Public School,-34.082071,151.020259,School
+Yudi Gunyi School,-33.904025,151.203108,School
+St George School,-33.969055,151.137532,School
+Cook School,-34.041709,151.052545,School
+Cairnsfoot School,-33.95457,151.152168,School
+Woniora Road School,-33.971003,151.103173,School
+Minerva School,-34.034965,151.058739,School
+Wairoa School,-33.886632,151.278496,School
+Bates Drive School,-34.022243,151.08527,School
+Carinya School,-33.973766,151.082222,School
+Edgeware School,-33.913582,151.131342,School
+Arncliffe Public School,-33.94054,151.14755,School
+Balmain Public School,-33.859166,151.183417,School
+Bexley Public School,-33.947687,151.128861,School
+Bondi Public School,-33.892625,151.264753,School
+Bourke Street Public School,-33.890534,151.215737,School
+Croydon Public School,-33.879793,151.114887,School
+Croydon Park Public School,-33.894695,151.108395,School
+Daceyville Public School,-33.929548,151.227984,School
+Darlinghurst Public School,-33.878599,151.223432,School
+Gardeners Road Public School,-33.920643,151.198034,School
+Glebe Public School,-33.883685,151.19097,School
+Leichhardt Public School,-33.88427,151.15814,School
+Maroubra Junction Public School,-33.93702706,151.2397289,School
+Newtown Public School,-33.899991,151.179405,School
+Paddington Public School,-33.887603,151.230188,School
+Rozelle Public School,-33.862581,151.169749,School
+Stanmore Public School,-33.895506,151.165283,School
+Woollahra Public School,-33.886379,151.24119,School
+Canterbury Boys High School,-33.904178,151.123884,School
+St George Girls High School,-33.959073,151.136035,School
+Sydney Boys High School,-33.892165,151.218904,School
+Sydney Girls High School,-33.894191,151.220371,School
+Sydney Technical High School,-33.963075,151.114342,School
+Conservatorium High School,-33.863407,151.21408,School
+Burwood Girls High School,-33.875318,151.113036,School
+Kingsgrove North High School,-33.93398,151.097628,School
+Port Hacking High School,-34.032395,151.097257,School
+Blakehurst High School,-33.980406,151.11324,School
+Caringbah High School,-34.034901,151.120399,School
+Heathcote High School,-34.082295,151.01441,School
+Kingsgrove High School,-33.948519,151.101653,School
+Matraville Sports High School,-33.964747,151.244548,School
+Cronulla High School,-34.038439,151.159056,School
+J J Cahill Memorial High School,-33.927435,151.201835,School
+Lucas Heights Community School,-34.035778,151.004817,School
+Central Sydney Intensive English High School,-33.900033,151.19308,School
+Kogarah High School,-33.961161,151.134227,School
+Gymea Technology High School,-34.029985,151.08338,School
+Endeavour Sports High School,-34.030083,151.117251,School
+"Georges River College, Peakhurst Campus",-33.966882,151.056013,School
+Engadine High School,-34.062141,151.019341,School
+Woolooware High School,-34.039811,151.145595,School
+Kirrawee High School,-34.04348,151.073475,School
+Sylvania High School,-34.017367,151.103529,School
+Sydney Secondary College Balmain Campus,-33.858506,151.170052,School
+Fort Street High School,-33.890196,151.1529,School
+Tempe High School,-33.91975,151.16094,School
+Sydney Secondary College Leichhardt Campus,-33.879463,151.159003,School
+Newtown High School of Performing Arts,-33.899534,151.178338,School
+Marrickville High School,-33.905781,151.155995,School
+South Sydney High School,-33.944154,151.234397,School
+Rose Bay Secondary College,-33.878347,151.276121,School
+Alexandria Park Community School,-33.901164,151.196518,School
+Menai High School,-34.002904,151.023851,School
+Sydney Distance Education High School,-33.871053,151.22098,School
+Canterbury Girls High School,-33.907264,151.122631,School
+"Georges River College, Hurstville Campus",-33.962826,151.109808,School
+Ashfield Boys High School,-33.889547,151.129219,School
+Dulwich High School of Visual Arts and Design,-33.904038,151.144871,School
+The Jannali High School,-34.021612,151.061927,School
+"Georges River College, Penshurst Campus",-33.964071,151.08601,School
+Arcadia Public School,-33.623487,151.051031,School
+Artarmon Public School,-33.811249,151.186001,School
+Asquith Public School,-33.685729,151.112177,School
+Seaforth Public School,-33.793262,151.251235,School
+Beecroft Public School,-33.752085,151.06462,School
+Berowra Public School,-33.618522,151.148996,School
+Boronia Park Public School,-33.821414,151.135558,School
+Brooklyn Public School,-33.548414,151.214992,School
+Brookvale Public School,-33.761678,151.270787,School
+Cammeray Public School,-33.820422,151.211542,School
+Castle Hill Public School,-33.727887,151.004663,School
+Cowan Public School,-33.588808,151.168843,School
+Dee Why Public School,-33.749025,151.285209,School
+Dural Public School,-33.686057,151.026394,School
+Epping Public School,-33.770727,151.087878,School
+Epping West Public School,-33.772789,151.068048,School
+Ermington Public School,-33.804749,151.071574,School
+Frenchs Forest Public School,-33.751516,151.224695,School
+Galston Public School,-33.648197,151.04517,School
+Gladesville Public School,-33.832977,151.125699,School
+Glenhaven Public School,-33.700792,151.002882,School
+Glenorie Public School,-33.599444,151.008082,School
+Greenwich Public School,-33.82587,151.183252,School
+Harbord Public School,-33.772164,151.286531,School
+Hillside Public School,-33.601784,150.976151,School
+Hunters Hill Public School,-33.835121,151.151254,School
+Kenthurst Public School,-33.665603,151.004575,School
+Lane Cove Public School,-33.816514,151.169134,School
+Lindfield Public School,-33.78075,151.168917,School
+Lindfield East Public School,-33.767479,151.18429,School
+Manly West Public School,-33.791875,151.268753,School
+Middle Dural Public School,-33.64496,151.023178,School
+Middle Harbour Public School,-33.82282,151.2327,School
+Mona Vale Public School,-33.676998,151.300404,School
+Narrabeen Lakes Public School,-33.720323,151.297413,School
+Neutral Bay Public School,-33.83261,151.219605,School
+Newport Public School,-33.660561,151.312237,School
+Normanhurst Public School,-33.723332,151.098026,School
+Northbridge Public School,-33.813034,151.218597,School
+North Rocks Public School,-33.768425,151.025148,School
+North Sydney Public School,-33.834819,151.203685,School
+Pennant Hills Public School,-33.7358,151.068058,School
+West Pennant Hills Public School,-33.746075,151.050491,School
+Putney Public School,-33.824562,151.110973,School
+Roseville Public School,-33.781883,151.188666,School
+Ryde Public School,-33.812552,151.108015,School
+North Ryde Public School,-33.794766,151.120042,School
+West Ryde Public School,-33.808363,151.085097,School
+Terrey Hills Public School,-33.685723,151.222619,School
+Turramurra North Public School,-33.714724,151.147816,School
+Waitara Public School,-33.708119,151.111586,School
+Warrawee Public School,-33.729484,151.121236,School
+Willoughby Public School,-33.802197,151.200123,School
+Annangrove Public School,-33.667417,150.95255,School
+Balgowlah Heights Public School,-33.805985,151.258754,School
+Belrose Public School,-33.727235,151.216645,School
+Pymble Public School,-33.732269,151.141089,School
+Avalon Public School,-33.639377,151.326739,School
+Narraweena Public School,-33.7492,151.273639,School
+Wahroonga Public School,-33.715583,151.128476,School
+Melrose Park Public School,-33.814849,151.071939,School
+Turramurra Public School,-33.745258,151.114305,School
+Denistone East Public School,-33.7943,151.096571,School
+Meadowbank Public School,-33.8129,151.0921,School
+Mount Colah Public School,-33.672947,151.115695,School
+Narrabeen North Public School,-33.699095,151.298134,School
+Lane Cove West Public School,-33.809886,151.152003,School
+Killara Public School,-33.765473,151.148436,School
+Castle Cove Public School,-33.783375,151.201973,School
+Curl Curl North Public School,-33.764639,151.289314,School
+Gordon West Public School,-33.760318,151.139223,School
+Manly Village Public School,-33.7994,151.287627,School
+Beaumont Road Public School,-33.774289,151.146271,School
+Collaroy Plateau Public School,-33.73297,151.29344,School
+Beacon Hill Public School,-33.75163,151.260584,School
+Balgowlah North Public School,-33.783267,151.246457,School
+Gordon East Public School,-33.74582,151.156203,School
+Mowbray Public School,-33.803943,151.155895,School
+Forestville Public School,-33.761582,151.212803,School
+Manly Vale Public School,-33.783497,151.25976,School
+Epping Heights Public School,-33.762695,151.07408,School
+Eastwood Heights Public School,-33.781914,151.095463,School
+Mount Kuring-gai Public School,-33.657474,151.135604,School
+Kent Road Public School,-33.787415,151.108936,School
+Truscott Street Public School,-33.794097,151.130918,School
+Epping North Public School,-33.757643,151.095425,School
+Elanora Heights Public School,-33.703672,151.284751,School
+Allambie Heights Public School,-33.76615,151.249208,School
+Cromer Public School,-33.738009,151.274661,School
+Wheeler Heights Public School,-33.72779,151.284764,School
+Ryde East Public School,-33.807139,151.125864,School
+Hornsby Heights Public School,-33.670114,151.097989,School
+Normanhurst West Public School,-33.721061,151.088436,School
+Thornleigh West Public School,-33.723864,151.072163,School
+West Pymble Public School,-33.763937,151.124401,School
+St Ives North Public School,-33.718672,151.163635,School
+Roselea Public School,-33.765259,151.05252,School
+St Ives Public School,-33.738199,151.1665,School
+Bilgola Plateau Public School,-33.644021,151.313406,School
+Hornsby North Public School,-33.682646,151.098865,School
+Wakehurst Public School,-33.738527,151.218101,School
+Baulkham Hills North Public School,-33.751927,150.999957,School
+Killarney Heights Public School,-33.774942,151.216151,School
+St Ives Park Public School,-33.724082,151.178775,School
+Murray Farm Public School,-33.766119,151.040173,School
+Mimosa Public School,-33.743343,151.205909,School
+Wideview Public School,-33.608499,151.14151,School
+Cherrybrook Public School,-33.731277,151.042056,School
+John Purchase Public School,-33.718798,151.038895,School
+Samuel Gilbert Public School,-33.713106,150.992027,School
+Oakhill Drive Public School,-33.721563,151.022997,School
+Hornsby South Public School,-33.713499,151.095148,School
+Beauty Point Public School,-33.812008,151.241883,School
+Fisher Road School,-33.746131,151.287466,School
+Cromehurst School,-33.773952,151.172207,School
+Naremburn School,-33.819372,151.200343,School
+The Beach School,-33.772011,151.262488,School
+Clarke Road School,-33.712072,151.095647,School
+Arranounbai School,-33.756784,151.241291,School
+Karonga School,-33.770806,151.06064,School
+Sir Eric Woodward Memorial School,-33.719579,151.179755,School
+Chatswood Public School,-33.798242,151.17759,School
+Eastwood Public School,-33.792743,151.078474,School
+Mosman Public School,-33.828052,151.241198,School
+Hornsby Girls High School,-33.706627,151.101083,School
+North Sydney Boys High School,-33.829336,151.207734,School
+North Sydney Girls High School,-33.830244,151.203447,School
+Willoughby Girls High School,-33.803128,151.199957,School
+Hunters Hill High School,-33.832696,151.148509,School
+Cheltenham Girls High School,-33.75627,151.074096,School
+Normanhurst Boys High School,-33.721475,151.101466,School
+Asquith High School,-33.689716,151.11275,School
+Marsden High School,-33.812981,151.092237,School
+Chatswood High School,-33.800013,151.175324,School
+Riverside Girls High School,-33.840079,151.141467,School
+Hornsby High School,-33.692276,151.103016,School
+Mosman High School,-33.829677,151.243425,School
+The Forest High School,-33.75651,151.24444,School
+Pittwater High School,-33.668259,151.302664,School
+Castle Hill High School,-33.726635,150.999534,School
+St Ives High School,-33.740147,151.167078,School
+Ryde Secondary College,-33.813316,151.119176,School
+Ku-ring-gai High School,-33.690973,151.153809,School
+Killarney Heights High School,-33.771925,151.215215,School
+Turramurra High School,-33.757307,151.114786,School
+Pennant Hills High School,-33.733692,151.061087,School
+Carlingford High School,-33.765412,151.050764,School
+Barrenjoey High School,-33.63117,151.333926,School
+Killara High School,-33.756575,151.174102,School
+Davidson High School,-33.74468,151.205465,School
+Galston High School,-33.660931,151.042348,School
+Muirfield High School,-33.764695,151.022294,School
+Northern Beaches Secondary College Cromer Campus,-33.737765,151.284453,School
+Narrabeen Sports High School,-33.700941,151.298401,School
+Northern Beaches Secondary College Manly Campus,-33.762388,151.281355,School
+Cherrybrook Technology High School,-33.719852,151.037583,School
+Northern Beaches Secondary College Mackellar Girls Campus,-33.782109,151.272401,School
+Northern Beaches Secondary College Balgowlah Boys Campus,-33.796405,151.254607,School
+Epping Boys High School,-33.769453,151.099645,School
+Appin Public School,-34.198417,150.78766,School
+Auburn North Public School,-33.841669,151.038618,School
+Auburn West Public School,-33.860931,151.019764,School
+Austral Public School,-33.934487,150.812638,School
+Greenacre Public School,-33.911161,151.057581,School
+Bankstown North Public School,-33.904888,151.038043,School
+Bargo Public School,-34.292889,150.58274,School
+Bass Hill Public School,-33.905902,151.005779,School
+Belmore North Public School,-33.909885,151.084885,School
+Belmore South Public School,-33.925735,151.091985,School
+Berala Public School,-33.869714,151.028244,School
+Blaxcell Street Public School,-33.858068,151.006125,School
+Bossley Park Public School,-33.858524,150.883076,School
+Bringelly Public School,-33.93791,150.730266,School
+Burwood Public School,-33.8768,151.098987,School
+Buxton Public School,-34.246971,150.544826,School
+Cabramatta Public School,-33.895823,150.942629,School
+Camden Public School,-34.051998,150.693236,School
+Campbelltown Public School,-34.070109,150.815634,School
+Campsie Public School,-33.911863,151.104846,School
+Canley Vale Public School,-33.88676,150.937632,School
+Cawdor Public School,-34.109711,150.673727,School
+Chipping Norton Public School,-33.909108,150.96085,School
+Cobbitty Public School,-34.0159,150.685938,School
+Concord Public School,-33.863224,151.106944,School
+Concord West Public School,-33.839613,151.087317,School
+Douglas Park Public School,-34.179484,150.713038,School
+Panania Public School,-33.965972,150.99946,School
+Enfield Public School,-33.888598,151.094528,School
+Fairfield Public School,-33.866847,150.955409,School
+Fairfield West Public School,-33.868037,150.924762,School
+Glenfield Public School,-33.971005,150.896584,School
+Granville Public School,-33.834264,151.004671,School
+Granville South Public School,-33.848289,150.995883,School
+Green Valley Public School,-33.90074,150.868972,School
+Guildford Public School,-33.855821,150.981983,School
+Hammondville Public School,-33.947273,150.954525,School
+Homebush Public School,-33.867319,151.08523,School
+Horsley Park Public School,-33.840414,150.852683,School
+Hoxton Park Public School,-33.931881,150.849626,School
+Ingleburn Public School,-34.000332,150.866612,School
+Kentlyn Public School,-34.073132,150.858576,School
+Lakemba Public School,-33.923615,151.070046,School
+Lidcombe Public School,-33.861019,151.046926,School
+Merrylands Public School,-33.840516,150.976047,School
+Milperra Public School,-33.942077,150.979779,School
+Minto Public School,-34.029979,150.847266,School
+Mortlake Public School,-33.849829,151.103861,School
+Mount Hunter Public School,-34.07177,150.63643,School
+Mount Pritchard Public School,-33.899845,150.900007,School
+Narellan Public School,-34.042764,150.733769,School
+Oakdale Public School,-34.078907,150.508197,School
+The Oaks Public School,-34.078385,150.571724,School
+Old Guildford Public School,-33.867484,150.986508,School
+Padstow Park Public School,-33.954955,151.030882,School
+Picton Public School,-34.17624,150.609346,School
+Prestons Public School,-33.94642,150.889961,School
+Punchbowl Public School,-33.930613,151.055905,School
+Leppington Public School,-33.959269,150.810901,School
+Regents Park Public School,-33.885518,151.024693,School
+Revesby Public School,-33.944449,151.017145,School
+Rossmore Public School,-33.946493,150.770857,School
+St Johns Park Public School,-33.887204,150.899278,School
+Smithfield Public School,-33.853583,150.933495,School
+Strathfield North Public School,-33.854531,151.09204,School
+Strathfield South Public School,-33.89078,151.084702,School
+Tahmoor Public School,-34.227663,150.588951,School
+Thirlmere Public School,-34.204832,150.569311,School
+Carramar Public School,-33.885512,150.969204,School
+Yanderra Public School,-34.320475,150.571244,School
+Kemps Creek Public School,-33.882805,150.790299,School
+Fairfield Heights Public School,-33.866094,150.940272,School
+Warwick Farm Public School,-33.909642,150.929409,School
+Chester Hill Public School,-33.885597,151.00161,School
+Georges Hall Public School,-33.912435,150.9922,School
+Riverwood Public School,-33.947208,151.046586,School
+Condell Park Public School,-33.925486,151.013674,School
+Chullora Public School,-33.895371,151.060249,School
+Chalmers Road School,-33.879569,151.081613,School
+Yagoona Public School,-33.909174,151.026716,School
+Wattle Grove Public School,-33.958654,150.937482,School
+Narwee Public School,-33.948186,151.06865,School
+East Hills Public School,-33.957953,150.991975,School
+Beverly Hills North Public School,-33.940606,151.074837,School
+Padstow Heights Public School,-33.966519,151.030001,School
+Villawood East Public School,-33.890154,150.986013,School
+Cabramatta West Public School,-33.897515,150.922985,School
+Chester Hill North Public School,-33.872352,151.001039,School
+Canley Heights Public School,-33.884812,150.922611,School
+Yennora Public School,-33.866826,150.970993,School
+Guildford West Public School,-33.847672,150.966496,School
+Fairvale Public School,-33.876939,150.940718,School
+Panania North Public School,-33.944499,150.999631,School
+Revesby South Public School,-33.960526,151.017335,School
+Birrong Public School,-33.895596,151.02007,School
+Leumeah Public School,-34.049425,150.840373,School
+Wattawa Heights Public School,-33.914921,151.012095,School
+Macquarie Fields Public School,-33.995325,150.882486,School
+Villawood North Public School,-33.877111,150.972454,School
+Padstow North Public School,-33.945302,151.031421,School
+Hannans Road Public School,-33.945271,151.057599,School
+Campbelltown North Public School,-34.061201,150.826589,School
+Bankstown West Public School,-33.915528,151.019639,School
+Tower Street Public School,-33.956383,151.007373,School
+Liverpool West Public School,-33.927101,150.907691,School
+Casula Public School,-33.944218,150.9092,School
+Mount Pritchard East Public School,-33.905097,150.912044,School
+Banksia Road Public School,-33.906898,151.05011,School
+Campbelltown East Public School,-34.072299,150.831753,School
+Marsden Road Public School,-33.916491,150.912841,School
+Camden South Public School,-34.069741,150.69563,School
+Holsworthy Public School,-33.956342,150.953353,School
+Lurnea Public School,-33.932082,150.891925,School
+Bardia Public School,-33.97528,150.857923,School
+Ringrose Public School,-33.820181,150.959399,School
+Harrington Street Public School,-33.888595,150.908725,School
+Sadleir Public School,-33.915843,150.891029,School
+Sherwood Grange Public School,-33.836784,150.960103,School
+Heckenberg Public School,-33.908784,150.890543,School
+Busby Public School,-33.911561,150.881313,School
+Miller Public School,-33.921454,150.876881,School
+Picnic Point Public School,-33.969119,151.010243,School
+Ashcroft Public School,-33.916395,150.89839,School
+Smithfield West Public School,-33.857608,150.91788,School
+Cartwright Public School,-33.925284,150.890943,School
+Lansvale East Public School,-33.897993,150.964109,School
+Busby West Public School,-33.906099,150.87445,School
+Bradbury Public School,-34.085998,150.81269,School
+Nuwarra Public School,-33.933241,150.951499,School
+Briar Road Public School,-34.089103,150.827673,School
+Curran Public School,-33.993145,150.899426,School
+Guise Public School,-33.987448,150.89692,School
+Mawarra Public School,-34.061245,150.7122,School
+King Park Public School,-33.879147,150.910701,School
+Widemere Public School,-33.834174,150.939897,School
+John Warby Public School,-34.082225,150.834434,School
+St Andrews Public School,-34.022532,150.831362,School
+Ruse Public School,-34.066949,150.841573,School
+Campbellfield Public School,-34.037684,150.847422,School
+Sackville Street Public School,-34.011068,150.863607,School
+Woodland Road Public School,-34.097072,150.815078,School
+Hampden Park Public School,-33.914957,151.074029,School
+Newbridge Heights Public School,-33.926068,150.952069,School
+Ambarvale Public School,-34.086423,150.798192,School
+Sarah Redfern Public School,-34.02765,150.85091,School
+Claymore Public School,-34.043125,150.809517,School
+The Grange Public School,-34.022051,150.857358,School
+Glenwood Public School,-33.974542,150.903028,School
+Blairmount Public School,-34.048007,150.802444,School
+Rosemeadow Public School,-34.104647,150.794537,School
+Thomas Acres Public School,-34.093621,150.789247,School
+Bonnyrigg Public School,-33.887728,150.888962,School
+Wiley Park Public School,-33.924753,151.068761,School
+Prairievale Public School,-33.866464,150.890898,School
+Eschol Park Public School,-34.02834,150.810838,School
+William Stimson Public School,-33.854623,150.905782,School
+Governor Philip King Public School,-33.873793,150.879107,School
+Robert Townson Public School,-34.016173,150.818892,School
+Edensor Park Public School,-33.882056,150.876121,School
+Kearns Public School,-34.021486,150.804446,School
+Bonnyrigg Heights Public School,-33.88935,150.867681,School
+Mount Annan Public School,-34.061714,150.760497,School
+St Helens Park Public School,-34.110232,150.804035,School
+Hinchinbrook Public School,-33.912986,150.85892,School
+Narellan Vale Public School,-34.056129,150.744718,School
+Greenway Park Public School,-33.938001,150.837554,School
+Currans Hill Public School,-34.04785,150.769197,School
+Newington Public School,-33.841151,151.055228,School
+Harrington Park Public School,-34.027145,150.738527,School
+Dalmeny Public School,-33.947297,150.871393,School
+Cecil Hills Public School,-33.888597,150.851731,School
+Elderslie Public School,-34.054473,150.721773,School
+Middleton Grange Public School,-33.917335,150.848199,School
+Harcourt Public School,-33.90897,151.095803,School
+Merrylands East Public School,-33.841954,150.98929,School
+Lansvale Public School,-33.890977,150.953555,School
+Granville East Public School,-33.84827,151.009981,School
+Homebush West Public School,-33.866461,151.06671,School
+Glenfield Park School,-33.967931,150.878601,School
+Beverley Park School,-34.062208,150.824219,School
+Broderick Gillawarna School,-33.942493,151.015897,School
+Passfield Park School,-34.023862,150.850907,School
+Wangee Park School,-33.908248,151.095881,School
+Karningul School,-33.88501,151.023804,School
+Mainsbridge School,-33.90964,150.928233,School
+Lawrence Hargrave School,-33.908215,150.935355,School
+Holroyd School,-33.828906,150.981664,School
+Caroline Chisholm School,-33.936108,151.02521,School
+Rivendell School,-33.832948,151.09845,School
+Les Powell School,-33.90434,150.91237,School
+Lucas Gardens School,-33.868438,151.113666,School
+Mary Brooksbank School,-34.09782,150.792742,School
+Campbell House School,-33.968196,150.882009,School
+Ajuga School,-33.969521,150.878033,School
+Lomandra School,-34.06173,150.824344,School
+Canterbury Vale School,-33.915685,151.074514,School
+Auburn Public School,-33.854,151.032953,School
+Bankstown Public School,-33.921122,151.034168,School
+Liverpool Public School,-33.923572,150.925924,School
+Hurlstone Agricultural High School,-33.970383,150.893629,School
+Homebush Boys High School,-33.866059,151.077132,School
+Strathfield Girls High School,-33.873901,151.084571,School
+Liverpool Girls High School,-33.917986,150.931475,School
+Campbelltown Performing Arts High School,-34.060108,150.822959,School
+Punchbowl Boys High School,-33.924027,151.052954,School
+Liverpool Boys High School,-33.917157,150.93154,School
+East Hills Girls Technology High School,-33.956866,150.992016,School
+East Hills Boys High School,-33.957229,150.994115,School
+Cabramatta High School,-33.901422,150.928913,School
+Birrong Boys High School,-33.894047,151.025024,School
+Picton High School,-34.194467,150.608418,School
+Camden High School,-34.0793994,150.6777325,School
+Bass High School,-33.897941,150.989379,School
+Merrylands High School,-33.840847,150.96957,School
+Sir Joseph Banks High School,-33.939698,151.020907,School
+Strathfield South High School,-33.885382,151.071235,School
+Auburn Girls High School,-33.84288,151.033681,School
+Bankstown Girls High School,-33.920754,151.032138,School
+Beverly Hills Girls High School,-33.948461,151.078627,School
+Bonnyrigg High School,-33.894982,150.893167,School
+Ingleburn High School,-34.005121,150.87152,School
+Sefton High School,-33.879538,151.008799,School
+Chester Hill High School,-33.874032,150.995411,School
+Cecil Hills High School,-33.895704,150.852043,School
+Mount Annan High School,-34.057371,150.760739,School
+John Edmondson High School,-33.946,150.843226,School
+Picnic Point High School,-33.964344,151.011457,School
+Westfields Sports High School,-33.866933,150.920432,School
+Canley Vale High School,-33.884644,150.951658,School
+Miller High School,-33.923589,150.881139,School
+Ashcroft High School,-33.920414,150.897272,School
+Condell Park High School,-33.923579,151.001755,School
+Lurnea High School,-33.941743,150.896043,School
+Holroyd High School,-33.832906,150.951137,School
+Granville South Creative and Performing Arts High School,-33.860626,150.997598,School
+Fairvale High School,-33.873614,150.929459,School
+James Busby High School,-33.908964,150.874039,School
+Casula High School,-33.95123,150.8937,School
+Hoxton Park High School,-33.92,150.86162,School
+Airds High School,-34.086883,150.827109,School
+James Meehan High School,-33.988351,150.892287,School
+Moorebank High School,-33.925772,150.958685,School
+Elderslie High School,-34.052603,150.715295,School
+St Johns Park High School,-33.873073,150.892002,School
+Leumeah High School,-34.054339,150.84737,School
+Concord High School,-33.864062,151.109271,School
+Fairfield High School,-33.865214,150.958647,School
+Sarah Redfern High School,-34.026782,150.85088,School
+Macquarie Fields High School,-33.996784,150.884901,School
+Prairiewood High School,-33.85948,150.901709,School
+Holsworthy High School,-33.955528,150.95232,School
+Eagle Vale Sports High School,-34.039942,150.803543,School
+Ambarvale High School,-34.099984,150.801938,School
+Robert Townson High School,-34.01533,150.817995,School
+Bossley Park High School,-33.870958,150.875379,School
+Elizabeth Macarthur High School,-34.057072,150.740091,School
+Thomas Reddall High School,-34.082029,150.801488,School
+Belmore Boys High School,-33.910796,151.085575,School
+Granville Boys High School,-33.834618,151.008817,School
+Birrong Girls High School,-33.88948,151.025708,School
+Wiley Park Girls High School,-33.924357,151.066545,School
+Bilpin Public School,-33.497331,150.516765,School
+Blackheath Public School,-33.639284,150.285831,School
+Blaxland Public School,-33.737103,150.603489,School
+Colo Heights Public School,-33.372972,150.739776,School
+Burnside Public School,-33.79258,151.018316,School
+Cattai Public School,-33.558762,150.906904,School
+Colyton Public School,-33.777199,150.81316,School
+Comleroy Road Public School,-33.506475,150.69763,School
+Doonside Public School,-33.764557,150.870497,School
+Eastern Creek Public School,-33.787013,150.852624,School
+Ebenezer Public School,-33.530917,150.876774,School
+Emu Plains Public School,-33.755617,150.657739,School
+Excelsior Public School,-33.740444,150.990408,School
+Freemans Reach Public School,-33.558697,150.799309,School
+Girraween Public School,-33.799711,150.950356,School
+Glenbrook Public School,-33.7656978,150.6177045,School
+Glossodia Public School,-33.530504,150.765471,School
+Greystanes Public School,-33.828043,150.941111,School
+Kellyville Public School,-33.711052,150.957887,School
+Kingswood Public School,-33.765884,150.726509,School
+Kurmond Public School,-33.549715,150.692309,School
+Kurrajong Public School,-33.555196,150.662653,School
+Kurrajong East Public School,-33.511172,150.77726,School
+Kurrajong North Public School,-33.541815,150.639446,School
+Lawson Public School,-33.721217,150.428243,School
+Leura Public School,-33.711151,150.336733,School
+Llandilo Public School,-33.707237,150.751783,School
+Londonderry Public School,-33.647454,150.736905,School
+Luddenham Public School,-33.881331,150.691523,School
+Macdonald Valley Public School,-33.321271,150.971993,School
+Maraylya Public School,-33.592681,150.916264,School
+Maroota Public School,-33.455283,150.99365,School
+Marsden Park Public School,-33.696425,150.833642,School
+The Meadows Public School,-33.781365,150.942567,School
+Megalong Public School,-33.715301,150.232582,School
+Mount Victoria Public School,-33.591334,150.253883,School
+Mulgoa Public School,-33.836505,150.650344,School
+Northmead Public School,-33.786511,150.990753,School
+Oakville Public School,-33.620452,150.87054,School
+Orchard Hills Public School,-33.783029,150.721365,School
+Parklea Public School,-33.725885,150.93476,School
+Parramatta Public School,-33.816821,151.008374,School
+Parramatta North Public School,-33.803951,151.004694,School
+Parramatta West Public School,-33.824472,150.990968,School
+Penrith Public School,-33.755926,150.70439,School
+Pitt Town Public School,-33.583887,150.859638,School
+Plumpton Public School,-33.749158,150.838556,School
+Quakers Hill Public School,-33.737467,150.885265,School
+Regentville Public School,-33.77728,150.668311,School
+Richmond North Public School,-33.580591,150.716871,School
+Riverstone Public School,-33.678387,150.871019,School
+Rouse Hill Public School,-33.679219,150.920985,School
+Rydalmere Public School,-33.814317,151.044705,School
+St Marys Public School,-33.768364,150.770634,School
+Schofields Public School,-33.693115,150.875247,School
+Seven Hills North Public School,-33.759976,150.955041,School
+Springwood Public School,-33.704613,150.573472,School
+Toongabbie Public School,-33.787181,150.966667,School
+Vineyard Public School,-33.647352,150.857935,School
+Wallacia Public School,-33.862695,150.641613,School
+Wentworth Falls Public School,-33.714112,150.373525,School
+Wentworthville Public School,-33.814004,150.968613,School
+Wilberforce Public School,-33.558704,150.839763,School
+Windsor Public School,-33.610366,150.816413,School
+Wisemans Ferry Public School,-33.385958,150.984133,School
+Warragamba Public School,-33.890924,150.60539,School
+Parramatta East Public School,-33.806081,151.017766,School
+Hazelbrook Public School,-33.726554,150.459399,School
+Westmead Public School,-33.810171,150.985291,School
+Seven Hills Public School,-33.770031,150.937488,School
+Katoomba North Public School,-33.699128,150.315134,School
+Pendle Hill Public School,-33.810297,150.953964,School
+Hilltop Road Public School,-33.826331,150.973319,School
+Richmond Public School,-33.598937,150.757514,School
+Dundas Public School,-33.804424,151.036399,School
+Oxley Park Public School,-33.771451,150.788894,School
+Rooty Hill Public School,-33.769292,150.840435,School
+Cambridge Park Public School,-33.747017,150.725939,School
+Blacktown North Public School,-33.75879,150.913134,School
+Windsor South Public School,-33.618221,150.804036,School
+Oatlands Public School,-33.800088,151.023521,School
+Telopea Public School,-33.797032,151.04364,School
+Blacktown West Public School,-33.770441,150.893057,School
+Rydalmere East Public School,-33.817144,151.05818,School
+Ermington West Public School,-33.805894,151.058368,School
+Penrith South Public School,-33.763901,150.700637,School
+Castlereagh Public School,-33.667028,150.675968,School
+Yates Avenue Public School,-33.795608,151.058398,School
+Seven Hills West Public School,-33.765987,150.921605,School
+Marayong Public School,-33.756609,150.895304,School
+Lalor Park Public School,-33.760504,150.93125,School
+Bert Oldfield Public School,-33.777505,150.924537,School
+Blacktown South Public School,-33.780193,150.905175,School
+Warrimoo Public School,-33.728056,150.600217,School
+St Marys North Public School,-33.756231,150.782596,School
+Quakers Hill East Public School,-33.732484,150.914359,School
+Darcy Road Public School,-33.801954,150.96599,School
+Vardys Road Public School,-33.757148,150.942765,School
+Lynwood Park Public School,-33.754408,150.926373,School
+St Marys South Public School,-33.780052,150.776385,School
+Marayong Heights Public School,-33.742667,150.896425,School
+Bennett Road Public School,-33.783499,150.792462,School
+Mount Druitt Public School,-33.763984,150.812509,School
+Walters Road Public School,-33.784758,150.892148,School
+Blaxland East Public School,-33.746937,150.623632,School
+Marayong South Public School,-33.760128,150.885236,School
+Kingswood South Public School,-33.769287,150.711849,School
+Wadangali Public School,-33.741191,150.711457,School
+Faulconbridge Public School,-33.691022,150.544693,School
+Toongabbie West Public School,-33.792593,150.957238,School
+Toongabbie East Public School,-33.797274,150.980274,School
+Whalan Public School,-33.752917,150.809664,School
+Shelley Public School,-33.789161,150.917863,School
+Jasper Road Public School,-33.761316,150.982269,School
+Carlingford West Public School,-33.78237,151.03717,School
+Tregear Public School,-33.745883,150.794321,School
+Beresford Road Public School,-33.814864,150.942945,School
+Lethbridge Park Public School,-33.737964,150.800109,School
+Winston Hills Public School,-33.773464,150.981106,School
+Emerton Public School,-33.744738,150.805478,School
+Lapstone Public School,-33.772117,150.631327,School
+Mount Riverview Public School,-33.72951,150.632585,School
+Winmalee Public School,-33.670272,150.610783,School
+Crestwood Public School,-33.749141,150.972197,School
+Emu Heights Public School,-33.736652,150.648818,School
+Metella Road Public School,-33.793967,150.934756,School
+Dawson Public School,-33.745369,150.816017,School
+Hebersham Public School,-33.748103,150.825924,School
+Madang Avenue Public School,-33.759958,150.804846,School
+Hobartville Public School,-33.603649,150.742281,School
+Blackett Public School,-33.739605,150.815858,School
+Willmot Public School,-33.725747,150.794401,School
+Winston Heights Public School,-33.77485,150.967894,School
+Werrington Public School,-33.755125,150.745293,School
+Leonay Public School,-33.76432,150.650498,School
+Shalvey Public School,-33.726605,150.809439,School
+Bidwill Public School,-33.733547,150.825934,School
+York Public School,-33.777111,150.698124,School
+Grose View Public School,-33.594468,150.66485,School
+Cambridge Gardens Public School,-33.737224,150.722008,School
+Noumea Public School,-33.732606,150.809892,School
+Crawford Public School,-33.75479,150.868825,School
+Braddock Public School,-33.722492,150.708382,School
+Matthew Pearce Public School,-33.758183,150.963554,School
+Clairgate Public School,-33.796329,150.799228,School
+Kings Langley Public School,-33.745131,150.924433,School
+St Clair Public School,-33.796324,150.786899,School
+Werrington County Public School,-33.74513,150.747554,School
+Jamisontown Public School,-33.77306,150.683083,School
+Katoomba Public School,-33.718645,150.313708,School
+Blackwell Public School,-33.806328,150.783052,School
+Samuel Terry Public School,-33.713307,150.708745,School
+Ellison Public School,-33.69035,150.585327,School
+Banks Public School,-33.793717,150.773098,School
+William Dean Public School,-33.734259,150.858693,School
+Minchinbury Public School,-33.78862,150.832427,School
+James Erskine Public School,-33.805167,150.803884,School
+Bligh Park Public School,-33.639133,150.794565,School
+Hambledon Public School,-33.71645,150.887211,School
+Glenmore Park Public School,-33.783388,150.681117,School
+Hassall Grove Public School,-33.73548,150.838504,School
+Barnier Public School,-33.72051,150.901824,School
+Glendenning Public School,-33.74223,150.852638,School
+Windsor Park Public School,-33.640641,150.813492,School
+Caddies Creek Public School,-33.736255,150.926227,School
+Henry Fulton Public School,-33.70473,150.709665,School
+Claremont Meadows Public School,-33.774178,150.747014,School
+Beaumont Hills Public School,-33.697809,150.945659,School
+Surveyors Creek Public School,-33.787277,150.689173,School
+Ironbark Ridge Public School,-33.687371,150.933259,School
+Kellyville Ridge Public School,-33.705413,150.924005,School
+Sherwood Ridge Public School,-33.706672,150.975587,School
+Ropes Crossing Public School,-33.7334423,150.7830912,School
+John Palmer Public School,-33.707397,150.911525,School
+Rowland Hassall School,-33.867715,150.989018,School
+Tallowood School,-33.707054,150.95217,School
+Redbank School,-33.800809,150.987659,School
+Casuarina School,-33.677516,150.866346,School
+William Rose School,-33.769095,150.937493,School
+Kurrambee School,-33.766355,150.757118,School
+Coreen School,-33.77315,150.911039,School
+Halinda School,-33.75902,150.807065,School
+Niland School,-33.736791,150.813357,School
+The Hills School,-33.779745,151.003951,School
+Plumpton House School,-33.75029,150.840732,School
+Penrith Valley School,-33.766554,150.758761,School
+Carlingford Public School,-33.780094,151.055153,School
+Rosehill Public School,-33.824229,151.018376,School
+Parramatta High School,-33.817883,150.996083,School
+Katoomba High School,-33.727402,150.314399,School
+Penrith High School,-33.756721,150.706537,School
+Richmond High School,-33.600535,150.746715,School
+Blacktown Girls High School,-33.761976,150.910792,School
+Northmead Creative and Performing Arts High School,-33.788092,150.999661,School
+Seven Hills High School,-33.762705,150.94487,School
+James Ruse Agricultural High School,-33.780624,151.043204,School
+Blacktown Boys High School,-33.762057,150.912543,School
+Glenwood High School,-33.733029,150.937429,School
+Glenmore Park High School,-33.791012,150.672564,School
+Rouse Hill High School,-33.6864,150.9317,School
+Nepean Creative and Performing Arts High School,-33.747745,150.668882,School
+Greystanes High School,-33.812495,150.940352,School
+Pendle Hill High School,-33.793877,150.962194,School
+Windsor High School,-33.618653,150.833554,School
+Doonside High School,-33.754708,150.874186,School
+Mitchell High School,-33.784795,150.915971,School
+The Hills Sports High School,-33.782184,150.938834,School
+Evans High School,-33.786512,150.889725,School
+Colyton High School,-33.777602,150.797336,School
+Springwood High School,-33.685057,150.550608,School
+Kingswood High School,-33.770416,150.715263,School
+Chifley College Mount Druitt Campus,-33.744657,150.812884,School
+Baulkham Hills High School,-33.750227,150.991499,School
+Kellyville High School,-33.707777,150.969921,School
+Chifley College Dunheved Campus,-33.749646,150.783093,School
+Chifley College Shalvey Campus,-33.730804,150.80574,School
+Model Farms High School,-33.76943,150.971394,School
+Girraween High School,-33.79989,150.944577,School
+Plumpton High School,-33.748126,150.835498,School
+Cambridge Park High School,-33.752164,150.732892,School
+Blaxland High School,-33.754247,150.60859,School
+Colo High School,-33.569359,150.708204,School
+Chifley College Bidwill Campus,-33.733854,150.827271,School
+Crestwood High School,-33.743607,150.975672,School
+Jamison High School,-33.775335,150.698118,School
+Hawkesbury High School,-33.559541,150.798039,School
+St Clair High School,-33.794217,150.786794,School
+Winmalee High School,-33.676047,150.615138,School
+Cranebrook High School,-33.721662,150.709812,School
+Erskine Park High School,-33.807899,150.802962,School
+Quakers Hill High School,-33.729813,150.89645,School
+Macarthur Girls High School,-33.813086,151.012499,School
+Arthur Phillip High School,-33.815715,151.007474,School
+Cumberland High School,-33.785205,151.036898,School
+Riverstone High School,-33.678883,150.875744,School
+Rooty Hill High School,-33.770841,150.838148,School
+Wilton Public School,-34.228678,150.684833,School
+The Ponds School,-33.698,150.911601,School
+Oran Park Public School,-33.99728,150.73485,School
+George Bass School,-33.89794534,150.988237,School
+Marie Bashir Public School,-33.875168,151.079424,School
+Cammeraygal High School,-33.832162,151.20304,School
+Aurora College,-33.7897,151.1607,School
+Victoria Avenue Public School,-33.847748,151.083379,School
+Riverbank Public School,-33.703959,150.899525,School
+The Ponds High School,-33.7033,150.89764,School
+Anzac Park Public School,-33.826566,151.210731,School
+Spring Farm Public School,-34.069638,150.714957,School
+Fernhill School,-33.796286238,150.676955842,School
+Wentworth Point Public School,-33.823709,151.080113,School
+Lindfield College,-33.790062,151.160509,School
+Yandelora School,-34.04306214,150.732244025,School
+Bella Vista Public School,-33.726556,150.954991,School
+North Kellyville Public School,-33.691337,150.955059,School
+Bayanami Public School,-33.80993,151.001264,School
+Inner Sydney High School,-33.889372,151.20603,School
+Oran Park High School,-33.998988,150.736305,School
+Gledswood Hills Public School,-34.01223,150.776555,School
+Smalls Road Public School,-33.799393,151.109465,School
+Jordan Springs Public School,-33.724924,150.725931,School
+South Creek School,-33.6779475,150.8756393,School
+Galungara Public School,-33.700355,150.880515,School
+Barramurra Public School,-34.006959,150.749038,School
+Denham Court Public School,-33.9825,150.8154,School
+Northbourne Public School,-33.6890866,150.8186977,School
+Richmond Agricultural Centre,-33.614026,150.753568,School
+Nangamay Public School,-33.803003,150.681619,School
+Edmondson Park Public School,-33.965316,150.852675,School
+Ngarala Public School,-33.78106,151.069192,School
+Gregory Hills Public School,-34.025,150.78,School
+Gulyangarri Public School,-33.917848,150.932241,School
+Tallawong Public School,-33.6868,150.8991,School
+Nirimba Fields Public School,-33.7146,150.8728,School
+Melonba High School,-33.697399,150.802768,School
+Green Square Public School,-33.908383,151.20668,School
+Melonba Public School,-33.699759,150.803617,School
+Box Hill Public School,-33.64227,150.892123,School
+Wentworth Point High School,-33.82399,151.08074,School
+Randwick High School,-33.921832,151.23944,School
+Gledswood Hills High School,-34.022494,150.769597,School
+Bayside High School,-33.967395499999995,151.1374145,School
+Box Hill High School,-33.6457,150.898968,School

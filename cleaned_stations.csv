@@ -1,0 +1,250 @@
+Name,Lat,Lon,Category
+St Leonards,-33.822438,151.1941934,Station
+Marrickville,-33.9139638,151.1536185,Station
+Green Square,-33.9061988,151.2024361,Station
+Edgecliff,-33.8792403,151.2361365,Station
+Rooty Hill,-33.7715179,150.8450104,Station
+Lidcombe,-33.8638146,151.0452428,Station
+Flemington,-33.8648765,151.069948,Station
+Waterfall,-34.1344488,150.9944558,Station
+Hurstville,-33.9673964,151.1025692,Station
+Bondi Junction,-33.8912429,151.248455,Station
+Clyde,-33.8359746,151.017066,Station
+Parramatta,-33.8175113,151.0054009,Station
+Faulconbridge,-33.6964307,150.5350695,Station
+Warrawee,-33.7242007,151.1217112,Station
+Waitara,-33.7099879,151.1042928,Station
+Tascott,-33.4509136,151.3186164,Station
+Point Clare,-33.4461883,151.3284368,Station
+Concord West,-33.8484033,151.0856114,Station
+Hurlstone Park,-33.9105924,151.1317928,Station
+Richmond,-33.598844,150.7526484,Station
+Thornleigh,-33.731822,151.0783865,Station
+Pennant Hills,-33.7379225,151.0725562,Station
+Normanhurst,-33.7208458,151.0970511,Station
+Cabramatta,-33.8950021,150.9388097,Station
+Turramurra,-33.7323074,151.1283777,Station
+Bulli,-34.334431,150.9147602,Station
+Thirroul,-34.3181745,150.9189104,Station
+Coledale,-34.2895651,150.9432304,Station
+Coalcliff,-34.242165,150.9774905,Station
+Yallamundi,-33.8099627,151.0292707,Station
+Dundas,-33.8038084,151.0332216,Station
+Telopea,-33.7944048,151.0411442,Station
+Carlingford,-33.7819695,151.0471842,Station
+Blacktown,-33.76845,150.9074065,Station
+Auburn,-33.8492852,151.0328346,Station
+Thirlmere,-34.2045304,150.5718107,Station
+Rosehill Gardens,-33.8181399,151.0244892,Station
+Wollongong,-34.4270314,150.8881858,Station
+North Wollongong,-34.4121206,150.8914366,Station
+Koolewong,-33.4664036,151.318514,Station
+Narara,-33.3947187,151.3443981,Station
+Niagara Park,-33.3831387,151.3545,Station
+Wyong,-33.2854758,151.425225,Station
+Tuggerah,-33.3078002,151.4201947,Station
+Ourimbah,-33.3595346,151.3699367,Station
+Wombarra,-34.2757504,150.9533594,Station
+Douglas Park,-34.1832452,150.7102539,Station
+Domestic Airport,-33.9336301,151.1808722,Station
+Fairfield,-33.8724177,150.9570025,Station
+Yerrinbool,-34.3718188,150.5434455,Station
+Strathfield,-33.871703,151.0942326,Station
+Burwood,-33.8771445,151.1040382,Station
+Wentworthville,-33.8071839,150.9726612,Station
+Menangle,-34.1252956,150.7443838,Station
+Carlton,-33.9682381,151.1244983,Station
+Miranda,-34.0363125,151.102695,Station
+Coniston,-34.4377384,150.8852807,Station
+Corrimal,-34.3757279,150.9048557,Station
+Menangle Park,-34.103653,150.7449641,Station
+Woonona,-34.3495876,150.9152056,Station
+Kings Cross,-33.8744874,151.2222308,Station
+Artarmon,-33.808856,151.1851425,Station
+International Airport,-33.9349749,151.1658747,Station
+Windsor,-33.6136867,150.8110535,Station
+Kingsgrove,-33.9405679,151.1006334,Station
+Doonside,-33.7639932,150.868382,Station
+Kogarah,-33.9621586,151.132574,Station
+Circular Quay,-33.8613593,151.2107193,Station
+Town Hall,-33.873567,151.2068498,Station
+Engadine,-34.0678648,151.0147301,Station
+Milsons Point,-33.8458627,151.2117909,Station
+Wollstonecraft,-33.8317125,151.1917276,Station
+Como,-34.0043476,151.068064,Station
+Heathcote,-34.0879621,151.0082554,Station
+Helensburgh,-34.1769399,150.9948093,Station
+Mortdale,-33.9708469,151.0811258,Station
+Penshurst,-33.9661553,151.0891799,Station
+Allawah,-33.9696934,151.1145108,Station
+St Peters,-33.9072863,151.1806702,Station
+Austinmer,-34.3064757,150.9292241,Station
+Bardwell Park,-33.9316025,151.1248844,Station
+Bellambi,-34.362853,150.9100489,Station
+Loftus,-34.0453436,151.0513461,Station
+Otford,-34.2106925,151.005819,Station
+Scarborough,-34.2648807,150.9657789,Station
+Ashfield,-33.8876579,151.1258176,Station
+Asquith,-33.6886841,151.1080776,Station
+Beecroft,-33.7496341,151.0663891,Station
+Cheltenham,-33.7556798,151.0785604,Station
+Denistone,-33.7998488,151.0873579,Station
+Eastwood,-33.790128,151.0822564,Station
+Gordon,-33.7557991,151.1543302,Station
+Mount Kuring-gai,-33.6531707,151.1368681,Station
+Petersham,-33.8939113,151.1553735,Station
+Punchbowl,-33.9254126,151.0557609,Station
+Summer Hill,-33.8904591,151.1387232,Station
+West Ryde,-33.8070374,151.0902904,Station
+Blaxland,-33.7436266,150.6096243,Station
+Campbelltown,-34.0636278,150.8143901,Station
+Clarendon,-33.6086191,150.7879859,Station
+East Richmond,-33.6017995,150.7591827,Station
+Emu Plains,-33.7457008,150.6715837,Station
+Glenbrook,-33.7690298,150.6207349,Station
+Hazelbrook,-33.7239715,150.4544865,Station
+Holsworthy,-33.9632164,150.9564652,Station
+Ingleburn,-33.9971947,150.864903,Station
+Kingswood,-33.7582886,150.7200073,Station
+Kirrawee,-34.0349533,151.0719112,Station
+Lapstone,-33.7737699,150.6427335,Station
+Leumeah,-34.0507604,150.8305071,Station
+Linden,-33.7149196,150.5054626,Station
+Macarthur,-34.0719861,150.7971899,Station
+Marayong,-33.7461846,150.9001907,Station
+Merrylands,-33.8368127,150.9923283,Station
+Minto,-34.0272394,150.8425751,Station
+Mount Druitt,-33.7695821,150.8201965,Station
+Mulgrave,-33.6266428,150.8304778,Station
+Padstow,-33.9519026,151.0323311,Station
+Pendle Hill,-33.8015021,150.9564483,Station
+Picton,-34.1790138,150.6126005,Station
+Quakers Hill,-33.7277275,150.8864823,Station
+Revesby,-33.9525282,151.0149093,Station
+Riverstone,-33.6791159,150.8602876,Station
+Riverwood,-33.9515059,151.0521177,Station
+St Marys,-33.7620938,150.7751625,Station
+Tempe,-33.9245392,151.1564329,Station
+Toongabbie,-33.7874687,150.9514631,Station
+Turrella,-33.9299188,151.1399608,Station
+Valley Heights,-33.7044936,150.5838711,Station
+Vineyard,-33.6504037,150.8511233,Station
+Warrimoo,-33.7212855,150.6023458,Station
+Werrington,-33.7592193,150.7579395,Station
+Wolli Creek,-33.9285225,151.1539888,Station
+Woodford,-33.7354736,150.4821925,Station
+Berowra,-33.6235384,151.1531676,Station
+Birrong,-33.8933152,151.0240303,Station
+Canley Vale,-33.8872029,150.9436605,Station
+Carramar,-33.8843192,150.9615133,Station
+Glenfield,-33.9722422,150.8930882,Station
+Gosford,-33.4234169,151.3417528,Station
+Guildford,-33.8543165,150.9844864,Station
+Leightonfield,-33.8815246,150.9852256,Station
+Macquarie Fields,-33.9847895,150.8789007,Station
+Sefton,-33.8852552,151.0114843,Station
+Wahroonga,-33.7175388,151.1169979,Station
+Warnervale Station,-33.2475032,151.4486303,Station
+Warwick Farm,-33.9133304,150.9351023,Station
+Waverton,-33.8380922,151.1976471,Station
+Woy Woy,-33.4858799,151.3231381,Station
+Wynyard,-33.8659903,151.2058096,Station
+Yennora,-33.8646287,150.9711499,Station
+Stanwell Park,-34.226379,150.9811052,Station
+Towradgi,-34.3840503,150.9015312,Station
+Schofields,-33.7043304,150.8737724,Station
+Chester Hill,-33.8835449,150.9994175,Station
+Springwood,-33.6987482,150.5639732,Station
+Rhodes,-33.8304008,151.0870609,Station
+Marion,-33.8839739,151.145122,Station
+Taverners Hill,-33.8891648,151.1452623,Station
+Hawthorne,-33.879569,151.1472257,Station
+Leichhardt North,-33.8749849,151.1541434,Station
+Edmondson Park,-33.9692716,150.858626,Station
+Yagoona,-33.9067491,151.0243075,Station
+Morisset,-33.1090883,151.4879121,Station
+Dora Creek,-33.0837216,151.5009464,Station
+Hornsby,-33.7034849,151.0983925,Station
+Lisarow,-33.3822108,151.3699831,Station
+Casula,-33.9501572,150.9118445,Station
+Wiley Park,-33.9229545,151.067336,Station
+Granville,-33.8330942,151.0124059,Station
+Newtown,-33.8979176,151.1796131,Station
+Macdonaldtown,-33.8969053,151.1858923,Station
+North Sydney,-33.8412146,151.2074639,Station
+Seven Hills,-33.7743672,150.9362605,Station
+Dulwich Hill,-33.9103059,151.1400503,Station
+Dulwich Grove,-33.9050316,151.1390454,Station
+Arlington,-33.9018878,151.1381029,Station
+Waratah Mills,-33.8987942,151.1401465,Station
+Lewisham West,-33.893838,151.1434089,Station
+Lilyfield,-33.874167,151.1650692,Station
+Rozelle Bay,-33.8718655,151.1727203,Station
+Jubilee Park,-33.8754286,151.1787216,Station
+Wentworth Park,-33.8743907,151.1940407,Station
+Bank Street,-33.8709375,151.1924379,Station
+John Street Square,-33.8674297,151.1920361,Station
+The Star,-33.8676611,151.1952923,Station
+Pyrmont Bay,-33.8694257,151.1975783,Station
+Convention,-33.8725775,151.1980698,Station
+Exhibition Centre,-33.8772478,151.1996527,Station
+Paddy's Markets,-33.8793182,151.2027158,Station
+Capitol Square,-33.8798044,151.2056706,Station
+Central Grand Concourse,-33.8824091,151.2067227,Station
+Chatswood,-33.7974806,151.180939,Station
+Epping,-33.7728628,151.0820902,Station
+Meadowbank,-33.8159137,151.0900998,Station
+Belmore,-33.9171961,151.0887104,Station
+Roseville,-33.7843685,151.1775506,Station
+Lindfield,-33.7756095,151.1692144,Station
+Croydon,-33.8832296,151.1155955,Station
+North Strathfield,-33.8590236,151.0881331,Station
+Mascot,-33.9231912,151.1872655,Station
+Narwee,-33.9475765,151.0702555,Station
+Panania,-33.9543358,150.9978399,Station
+East Hills,-33.9618532,150.9846273,Station
+Sydenham,-33.9147428,151.1661069,Station
+Bexley North,-33.9375479,151.1134896,Station
+Beverly Hills,-33.9490787,151.0810471,Station
+Martin Place,-33.8678177,151.210759,Station
+Lakemba,-33.9201175,151.0758653,Station
+Liverpool,-33.9245421,150.9276398,Station
+Harris Park,-33.8233375,151.0076541,Station
+Westmead,-33.8084959,150.9880176,Station
+Homebush,-33.8668117,151.0864608,Station
+Stanmore,-33.8945133,151.1639072,Station
+Lewisham,-33.8933685,151.1476275,Station
+Woolooware,-34.0476621,151.1440873,Station
+Caringbah,-34.0415962,151.1227396,Station
+Gymea,-34.0348927,151.0855146,Station
+Cronulla,-34.0557283,151.1514553,Station
+Banksia,-33.9453399,151.140407,Station
+Rockdale,-33.9518729,151.1368534,Station
+Arncliffe,-33.936435,151.1473489,Station
+Oatley,-33.9805174,151.0790256,Station
+Jannali,-34.015952,151.06463,Station
+Sutherland,-34.0316252,151.0572738,Station
+Penrith,-33.7499883,150.696094,Station
+Mount Colah,-33.6719686,151.1145291,Station
+Pymble,-33.7447018,151.1419726,Station
+Berala,-33.8719154,151.0322942,Station
+Regents Park,-33.8828393,151.0242784,Station
+Villawood,-33.8808812,150.9761642,Station
+Bankstown,-33.917844,151.0346402,Station
+Campsie,-33.9105708,151.1026511,Station
+Canterbury,-33.9119882,151.1186885,Station
+Dulwich Hill,-33.9110089,151.140913,Station
+Erskineville,-33.9009517,151.1852676,Station
+Tramway Avenue,-33.817206,151.0185111,Station
+Robin Thomas,-33.8169223,151.0112047,Station
+Parramatta Square,-33.815554,151.0051301,Station
+Church Street,-33.8129468,151.0036168,Station
+Prince Alfred Square,-33.8090725,151.0052567,Station
+Fennell Street,-33.8051861,151.0058333,Station
+Benaud Oval,-33.800814,151.0045582,Station
+Ngara,-33.8014592,151.0013831,Station
+Childrens Hospital,-33.802589,150.9930356,Station
+Westmead Hospital,-33.804709,150.9900754,Station
+Bargo,-34.2910963,150.580115,Station
+Fairy Meadow,-34.395368,150.8963847,Station
+Wyee,-33.1803459,151.4871062,Station
