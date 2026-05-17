@@ -1,60 +1,53 @@
-from clearml import Task
 from clearml.automation import PipelineController
-
-def pre_execute_callback_example(a_pipeline, a_node, current_param_override):
-    # type (PipelineController, PipelineController.Node, dict) -> bool
-    print(
-        "Cloning Task id={} with parameters: {}".format(
-            a_node.base_task_id, current_param_override
-        )
-    )
-    return True
-
-
-def post_execute_callback_example(a_pipeline, a_node):
-    print("Completed Task id={}".format(a_node.executed))
-    return
 
 
 def run_pipeline():
     pipe = PipelineController(
-        name="AI_Studio_Basic_Pipeline", 
-        project="AI_Studio_Basic_Demo", 
-        version="0.0.1", 
+        name="Sydney_Housing_Basic_Pipeline",
+        project="Sydney_Housing_Project",
+        version="0.0.2",
         add_pipeline_tags=False,
     )
 
     pipe.set_default_execution_queue("tasks")
 
     pipe.add_step(
-        name="stage_data",
-        base_task_project="AI_Studio_Basic_Demo",
-        base_task_name="Pipeline step 1 dataset artefact",
+        name="stage_data_ingestion",
+        base_task_project="Sydney_Housing_Project",
+        base_task_name="V1_Data_Ingestion_and_EDA",
     )
 
     pipe.add_step(
-        name="stage_process",
-        parents=["stage_data"],
-        base_task_project="AI_Studio_Basic_Demo",
-        base_task_name="Pipeline step 2 process dataset",
-        parameter_override={
-            "General/dataset_task_id": "${stage_data.id}",
-            "General/test_size": 0.25,
-            "General/random_state": 42
-        },
+        name="stage_feature_engineering",
+        parents=["stage_data_ingestion"],
+        base_task_project="Sydney_Housing_Project",
+        base_task_name="V2_Feature_Engineering_Distance",
     )
 
     pipe.add_step(
-        name="stage_train",
-        parents=["stage_process"],
-        base_task_project="AI_Studio_Basic_Demo",
-        base_task_name="Pipeline step 3 train model",
-        parameter_override={"General/dataset_task_id": "${stage_process.id}"},
+        name="stage_baseline_model",
+        parents=["stage_feature_engineering"],
+        base_task_project="Sydney_Housing_Project",
+        base_task_name="V3_Baseline_RF_UltraClean",
     )
 
-    # Local execution
-    # pipe.start_locally(run_pipeline_steps_locally=True)
+    pipe.add_step(
+        name="stage_temporal_features",
+        parents=["stage_baseline_model"],
+        base_task_project="Sydney_Housing_Project",
+        base_task_name="V4.1_Temporal_Features",
+    )
 
-    # Remote execution 
+    pipe.add_step(
+        name="stage_pruned_rf_expert",
+        parents=["stage_temporal_features"],
+        base_task_project="Sydney_Housing_Project",
+        base_task_name="V2.1_Pruned_RF_Expert",
+    )
+
     pipe.start(queue="pipeline_controller")
-    print("Pipeline completed. 🔥")
+    print("Pipeline submitted to ClearML. 🔥")
+
+
+if __name__ == "__main__":
+    run_pipeline()
