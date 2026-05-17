@@ -21,7 +21,7 @@ def run_pipeline():
         name="stage_feature_engineering",
         parents=["stage_data_ingestion"],
         base_task_project="Sydney_Housing_Project",
-        base_task_name="V2_Feature_Engineering_Distance",
+        base_task_name="V2_Feature_Engineering_Distance_Fixed",
     )
 
     pipe.add_step(
